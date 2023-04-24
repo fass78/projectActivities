@@ -1,0 +1,21 @@
+[
+    {
+        "clave":"1",
+        "nombre":"Cobros",
+        "Tipo":[
+            "facturas", 
+            "proveedores", 
+            "Obra"
+        ]       
+    },
+    
+    {
+        "clave":"2",
+        "nombre":"Pagos",
+        "Tipo":[
+            "facturas", 
+            "proveedores", 
+            "Obra"
+        ]       
+
+    }]

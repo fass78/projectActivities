@@ -1,0 +1,406 @@
+[{
+        "clave": "1",
+        "nombre": "Acapulco de Juárez",
+        "region": "Acapulco"
+    },
+    {
+        "clave": "2",
+        "nombre": "Ahuacuotzingo",
+        "region": "Centro"
+    },
+    {
+        "clave": "3",
+        "nombre": "Ajuchitlán del Progreso",
+        "region": "Tierra Caliente"
+    },
+    {
+        "clave": "4",
+        "nombre": "Alcozauca de Guerrero",
+        "region": "La Montaña"
+    },
+    {
+        "clave": "5",
+        "nombre": "Alpoyeca",
+        "region": "La Montaña"
+    },
+    {
+        "clave": "6",
+        "nombre": "Apaxtla",
+        "region": "Norte"
+    },
+    {
+        "clave": "7",
+        "nombre": "Arcelia",
+        "region": "Tierra Caliente"
+    },
+    {
+        "clave": "8",
+        "nombre": "Atenango del Río",
+        "region": "Norte"
+    },
+    {
+        "clave": "9",
+        "nombre": "Atlamajalcingo del Monte",
+        "region": "La Montaña"
+    },
+    {
+        "clave": "10",
+        "nombre": "Atlixtac",
+        "region": "La Montaña"
+    },
+    {
+        "clave": "11",
+        "nombre": "Atoyac de Álvarez",
+        "region": "Costa Grande"
+    },
+    {
+        "clave": "12",
+        "nombre": "Ayutla de los Libres",
+        "region": "Costa Chica"
+    },
+    {
+        "clave": "13",
+        "nombre": "Azoyú",
+        "region": "Costa Chica"
+    },
+    {
+        "clave": "14",
+        "nombre": "Benito Juárez",
+        "region": "Costa Grande"
+    },
+    {
+        "clave": "15",
+        "nombre": "Buenavista de Cuéllar",
+        "region": "Norte"
+    },
+    {
+        "clave": "16",
+        "nombre": "Coahuayutla de José María Izazaga",
+        "region": "Costa Grande"
+    },
+    {
+        "clave": "17",
+        "nombre": "Cocula",
+        "region": "Norte"
+    },
+    {
+        "clave": "18",
+        "nombre": "Copala",
+        "region": "Costa Chica"
+    },
+    {
+        "clave": "19",
+        "nombre": "Copalillo",
+        "region": "Norte"
+    },
+    {
+        "clave": "20",
+        "nombre": "Copanatoyac",
+        "region": "La Montaña"
+    },
+    {
+        "clave": "21",
+        "nombre": "Coyuca de Benítez",
+        "region": "Costa Grande"
+    },
+    {
+        "clave": "22",
+        "nombre": "Coyuca de Catalán",
+        "region": "Tierra Caliente"
+    },
+    {
+        "clave": "23",
+        "nombre": "Cuajinicuilapa",
+        "region": "Costa Chica"
+    },
+    {
+        "clave": "24",
+        "nombre": "Cualác",
+        "region": "La Montaña"
+    },
+    {
+        "clave": "25",
+        "nombre": "Cuautepec",
+        "region": "Costa Chica"
+    },
+    {
+        "clave": "26",
+        "nombre": "Cuetzala del Progreso",
+        "region": "Norte"
+    },
+    {
+        "clave": "27",
+        "nombre": "Cutzamala de Pinzón",
+        "region": "Tierra Caliente"
+    },
+    {
+        "clave": "28",
+        "nombre": "Chilapa de Álvarez",
+        "region": "Centro"
+    },
+    {
+        "clave": "29",
+        "nombre": "Chilpancingo de los Bravo",
+        "region": "Centro"
+    },
+    {
+        "clave": "30",
+        "nombre": "Florencio Villarreal",
+        "region": "Costa Chica"
+    },
+    {
+        "clave": "31",
+        "nombre": "General Canuto A. Neri",
+        "region": "Norte"
+    },
+    {
+        "clave": "32",
+        "nombre": "General Heliodoro Castillo",
+        "region": "Centro"
+    },
+    {
+        "clave": "33",
+        "nombre": "Huamuxtitlán",
+        "region": "La Montaña"
+    },
+    {
+        "clave": "34",
+        "nombre": "Huitzuco de los Figueroa",
+        "region": "Norte"
+    },
+    {
+        "clave": "35",
+        "nombre": "Iguala de la Independencia",
+        "region": "Norte"
+    },
+    {
+        "clave": "36",
+        "nombre": "Igualapa",
+        "region": "Costa Chica"
+    },
+    {
+        "clave": "37",
+        "nombre": "Ixcateopan de Cuauhtémoc",
+        "region": "Norte"
+    },
+    {
+        "clave": "38",
+        "nombre": "Zihuatanejo de Azueta",
+        "region": "Costa Grande"
+    },
+    {
+        "clave": "39",
+        "nombre": "Juan R. Escudero",
+        "region": "Centro"
+    },
+    {
+        "clave": "40",
+        "nombre": "Leonardo Bravo",
+        "region": "Centro"
+    },
+    {
+        "clave": "41",
+        "nombre": "Malinaltepec",
+        "region": "La Montaña"
+    },
+    {
+        "clave": "42",
+        "nombre": "Mártir de Cuilapan",
+        "region": "Centro"
+    },
+    {
+        "clave": "43",
+        "nombre": "Metlatónoc",
+        "region": "La Montaña"
+    },
+    {
+        "clave": "44",
+        "nombre": "Mochitlán",
+        "region": "Centro"
+    },
+    {
+        "clave": "45",
+        "nombre": "Olinalá",
+        "region": "La Montaña"
+    },
+    {
+        "clave": "46",
+        "nombre": "Ometepec",
+        "region": "Costa Chica"
+    },
+    {
+        "clave": "47",
+        "nombre": "Pedro Ascencio Alquisiras",
+        "region": "Norte"
+    },
+    {
+        "clave": "48",
+        "nombre": "Petatlán",
+        "region": "Costa Grande"
+    },
+    {
+        "clave": "49",
+        "nombre": "Pilcaya",
+        "region": "Norte"
+    },
+    {
+        "clave": "50",
+        "nombre": "Pungarabato",
+        "region": "Tierra Caliente"
+    },
+    {
+        "clave": "51",
+        "nombre": "Quechultenango",
+        "region": "Centro"
+    },
+    {
+        "clave": "52",
+        "nombre": "San Luis Acatlán",
+        "region": "Costa Chica"
+    },
+    {
+        "clave": "53",
+        "nombre": "San Marcos",
+        "region": "Costa Chica"
+    },
+    {
+        "clave": "54",
+        "nombre": "San Miguel Totolapan",
+        "region": "Tierra Caliente"
+    },
+    {
+        "clave": "55",
+        "nombre": "Taxco de Alarcón",
+        "region": "Norte"
+    },
+    {
+        "clave": "56",
+        "nombre": "Tecoanapa",
+        "region": "Costa Chica"
+    },
+    {
+        "clave": "57",
+        "nombre": "Técpan de Galeana",
+        "region": "Costa Grande"
+    },
+    {
+        "clave": "58",
+        "nombre": "Teloloapan",
+        "region": "Norte"
+    },
+    {
+        "clave": "59",
+        "nombre": "Tepecoacuilco de Trujano",
+        "region": "Norte"
+    },
+    {
+        "clave": "60",
+        "nombre": "Tetipac",
+        "region": "Norte"
+    },
+    {
+        "clave": "61",
+        "nombre": "Tixtla de Guerrero",
+        "region": "Centro"
+    },
+    {
+        "clave": "62",
+        "nombre": "Tlacoachistlahuaca",
+        "region": "Costa Chica"
+    },
+    {
+        "clave": "63",
+        "nombre": "Tlacoapa",
+        "region": "La Montaña"
+    },
+    {
+        "clave": "64",
+        "nombre": "Tlalchapa",
+        "region": "Tierra Caliente"
+    },
+    {
+        "clave": "65",
+        "nombre": "Tlalixtaquilla de Maldonado",
+        "region": "La Montaña"
+    },
+    {
+        "clave": "66",
+        "nombre": "Tlapa de Comonfort",
+        "region": "La Montaña"
+    },
+    {
+        "clave": "67",
+        "nombre": "Tlapehuala",
+        "region": "Tierra Caliente"
+    },
+    {
+        "clave": "68",
+        "nombre": "La Unión de Isidoro Montes de Oca",
+        "region": "Costa Grande"
+    },
+    {
+        "clave": "69",
+        "nombre": "Xalpatláhuac",
+        "region": "La Montaña"
+    },
+    {
+        "clave": "70",
+        "nombre": "Xochihuehuetlán",
+        "region": "La Montaña"
+    },
+    {
+        "clave": "71",
+        "nombre": "Xochistlahuaca",
+        "region": "Costa Chica"
+    },
+    {
+        "clave": "72",
+        "nombre": "Zapotitlán Tablas",
+        "region": "La Montaña"
+    },
+    {
+        "clave": "73",
+        "nombre": "Zirándaro",
+        "region": "Tierra Caliente"
+    },
+    {
+        "clave": "74",
+        "nombre": "Zitlala",
+        "region": "Centro"
+    },
+    {
+        "clave": "75",
+        "nombre": "Eduardo Neri",
+        "region": "Centro"
+    },
+    {
+        "clave": "76",
+        "nombre": "Acatepec",
+        "region": "La Montaña"
+    },
+    {
+        "clave": "77",
+        "nombre": "Marquelia",
+        "region": "Costa Chica"
+    },
+    {
+        "clave": "78",
+        "nombre": "Cochoapa el Grande",
+        "region": "La Montaña"
+    },
+    {
+        "clave": "79",
+        "nombre": "José Joaquín de Herrera",
+        "region": "Centro"
+    },
+    {
+        "clave": "80",
+        "nombre": "Juchitán",
+        "region": "Costa Chica"
+    },
+    {
+        "clave": "81",
+        "nombre": "Iliatenco",
+        "region": "La Montaña"
+    }
+]
